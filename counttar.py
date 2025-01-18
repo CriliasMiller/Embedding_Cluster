@@ -9,4 +9,4 @@ def find_all_npz(npz_path):
 
     return npz_all
 
-print(len(find_all_npz('/workspace/Data/video_and_image_datas/processed_videos_wds_datas/hd_movie_video_data2_asia/')))
+print(len(find_all_npz('\')))
